@@ -40,4 +40,4 @@ def main(people_id, background_id):
 
 
 if __name__ == '__main__':
-    main(people_id=4, background_id=22)
+    main(people_id=4, background_id=11)
