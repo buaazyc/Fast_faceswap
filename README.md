@@ -21,7 +21,8 @@ fast_faceswap use dlib and change_style_network(基于dlib和风格迁移网络�
 10. 与之前的照片融合  
 
 ## 环境：
-所需依赖在requirements.txt中，主要包含:  
+配置环境的过程可能比较复杂，会遇到各种各样的错误，可以查阅各种博客进行解决，注意版本号的对应
+主要包含:  
 keras  
 numpy  
 opencv  
