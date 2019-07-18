@@ -4,6 +4,7 @@ fast_faceswap use dlib and change_style_network(基于dlib和风格迁移网络�
 在传统的dlib换脸基础上，增加了基于风格迁移网络的部分，可以使得融合更加逼真，光照和肤色转化更加自然  
 轻量级换脸参考：http://matthewearl.github.io/2015/07/28/switching-eds-with-python/  
 风格迁移网络论文：A neural algorithm of artistic style
+![image](https://github.com/buaazyc/fast_faceswap/blob/master/output/4to20.jpg)
 
 ##  算法流程
 ### 初步换脸流程：
